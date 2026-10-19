@@ -27,4 +27,4 @@ node API24/<script_name>.js
 
 ## Author
 
-Developed by [Felipe Madson](https://github.com/FelipeMadson).
+Developed by [Felipe Madison](https://github.com/FelipeMadson).
